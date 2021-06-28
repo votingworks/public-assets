@@ -1,2 +1,7 @@
 # public-assets
-A set of static assets used by third-party apps which should can be added to, but which should never be modified.
+
+A set of static assets referenced by third-party apps. 
+
+Assets are available at: https://assets.voting.works/path-to-asset
+
+Existing files can be modified carefully, but should never be removed.
